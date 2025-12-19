@@ -1,13 +1,13 @@
 This repository practices including branches feature develop,pull request, conflict resolution.
 
- Main :
+ main :
 
     this branch production-ready,stable code and only tested and approved changes and merged into this branch.
 
- Develop :
+ develop :
 
   server as the primary integration branch. All completed features are merged here before released to production.
 
-Feature:
+feature:
 
     this branch used to developing new feature. Each feature branch is created from 'develop' and merged back into develop after completion and review. 
